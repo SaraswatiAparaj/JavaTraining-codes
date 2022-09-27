@@ -7,3 +7,4 @@
 6. Usage of Substring builtin method.
 7. Reverse a string using charAt() method.
 8. Immutable class.
+9. Implementation of RegularExpressions.
