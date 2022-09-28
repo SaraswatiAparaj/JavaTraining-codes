@@ -59,7 +59,7 @@ public class RegularExpression
 		case 4:
 			System.out.print("Enter your Address here\n");
 			String add=sc.next();
-			String regex2="^[a-zA-Z0-9\\s\\,\\''\\-]*$";
+			String regex2="^[\\a-zA-Z0-9\\s\\,\\''\\-]*$";
 			boolean res3=add.matches(regex2);
 			if(res3){
 				System.out.println("Entered address is valid");
