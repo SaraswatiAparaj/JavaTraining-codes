@@ -1,11 +1,11 @@
 # Java training tasks 
 
-   1 Emp_displayDetails class is to demonstrate initializing variables using constructor and displaying the details of employee.</br>
-   2 Emp_methodOverloading class is to demonstrate method overloading concept using inheritance.</br>
-   3 Emp_methoOverriding class is to demonstrate method overriding concept using inheritance.</br>
-   4 Emp_continueStatement class is to demonstrate continue statement using foreach loop.</br>
-   5 Emp_controlStatements class is to demonstrate if-else decision making statements.</br>
-   6 Emp_switchStatement class is to demonstrate switch condition statement.</br>
+   1 Employee_displayDetails class is to demonstrate initializing variables using constructor and displaying the details of employee.</br>
+   2 Employee_methodOverloading class is to demonstrate method overloading concept using inheritance.</br>
+   3 Employee_methoOverriding class is to demonstrate method overriding concept using inheritance.</br>
+   4 Employee_continueStatement class is to demonstrate continue statement using foreach loop.</br>
+   5 Employee_controlStatements class is to demonstrate if-else decision making statements.</br>
+   6 Employee_switchStatement class is to demonstrate switch condition statement.</br>
    7 Substring class is to demonstrate extracting substring from a string (Extracting date of joining from the given string).</br>
    8 Reversestring class is to demonstrate reversing a string using single for loop and charAt() string method.</br>
    9 Immutableclass is to demonstarte immutable class as well as immutable members of that class using final and private keywords.</br>
