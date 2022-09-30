@@ -1,6 +1,6 @@
 package sar;
 
-public class trycatch1 {
+public class Trycatch1 {
 	public static void main(String[] args)
 	{
 		System.out.println("statement 1");
