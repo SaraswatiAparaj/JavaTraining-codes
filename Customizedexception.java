@@ -1,6 +1,6 @@
 package sar;
 
-public class customizedexception 
+public class Customizedexception 
 {
 	public static void main(String[] args)
 	{
