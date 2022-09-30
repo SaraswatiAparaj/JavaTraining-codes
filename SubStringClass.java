@@ -1,4 +1,4 @@
-public class subStringClass 
+public class SubStringClass 
 {
 
 	public static void main(String[] args) 
