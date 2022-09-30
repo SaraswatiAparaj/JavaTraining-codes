@@ -12,22 +12,7 @@
 
     We can not modify the member of immutable class after creation of object.
 
-   10 Regularexpression class is to validate the employee details like email, employee id, phone number and address.
-
-    The following restrictions are imposed in the email address local part: 
-    a> It allows numeric values from 0 to 9. 
-    b> Both uppercase and lowercase letters from a to z are allowed. 
-    c> Allowed are underscore “_”, hyphen “-“, and dot “.” 
-    d> Dot and @ are not allowed at the start and end of the local part. 
-    e> Consecutive dots aren't allowed. 
-    f> For the local part, a maximum of 64 characters are allowed.
-
-
-    Phone number regular expression to match Phone Number of All Country Formats: 
-    a> The country code prefix starts with ‘+’ and has 1-3 digits. 
-    b> Most of the countries have the last 4 digits after a hyphen(-).
-    
-    
+   10 Regularexpression class is to validate the employee details like email, employee id, phone number and address. 
    11 trycatch1 class is to demonstrate the simple try and catch blocks and to display the exception handled by the catch block.</br>
    12 Doubletrycatch class is to demonstrate thenested try-catch blocks along with finally block to execute the mandatory statements.</br>
    13 throw1 class is to demonstrate exceptions using throw keyword. </br>
