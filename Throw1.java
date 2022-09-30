@@ -1,6 +1,6 @@
 package sar;
 
-public class throw1 {
+public class Throw1 {
 	public static void main(String[] args)
 	{
 		System.out.println("Statement 1");
