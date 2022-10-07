@@ -1,4 +1,3 @@
-package sar;
 import java.util.*;
 
 public class Linkedhashmap 
