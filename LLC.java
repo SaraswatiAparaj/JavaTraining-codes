@@ -1,5 +1,3 @@
-package sar;
-
 class Node
 {
 	int data;
