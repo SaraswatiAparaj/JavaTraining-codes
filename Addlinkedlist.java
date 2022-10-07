@@ -1,5 +1,3 @@
-package sar;
-
 class LinkedList1
 {
 class Node
