@@ -1,5 +1,3 @@
-package sar;
-
 public class Customizedexception 
 {
 	public static void main(String[] args)
