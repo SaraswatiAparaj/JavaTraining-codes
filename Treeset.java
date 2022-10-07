@@ -1,5 +1,3 @@
-package sar;
-
 import java.util.TreeSet;
 
 public class Treeset 
