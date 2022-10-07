@@ -1,5 +1,3 @@
-package sar;
-
 import java.util.HashSet;
 
 public class TestSet {
