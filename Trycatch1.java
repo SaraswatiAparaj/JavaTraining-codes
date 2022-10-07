@@ -1,5 +1,3 @@
-package sar;
-
 public class Trycatch1 {
 	public static void main(String[] args)
 	{
