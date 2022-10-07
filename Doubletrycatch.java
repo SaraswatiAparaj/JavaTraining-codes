@@ -1,5 +1,3 @@
-package sar;
-
 public class Doubletrycatch
 {
 	public static void main(String[] args) 
