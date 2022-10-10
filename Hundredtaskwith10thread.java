@@ -15,7 +15,7 @@ public class Hundredtaskwith10thread extends Thread
 		
 		for(int i=1;i<100;i++)
 		{
-			service.execute(new Tpool());
+			service.execute(new Hundredtaskwith10thread());
 		}
 	}
 
