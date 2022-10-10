@@ -20,7 +20,7 @@
     b. Class must call the super class constructor.</br>
     
    15 Addlinkedlist class is demonstrate creation of Linked List and displaying the traversing through the list to display data of the 
-      last node.</br>    
+      last node.</br>
    16 LinkedListTest class is to demonstrate user defined Linked List class which adds and creates links one node to another, displays and 
       deletes the nodes of linked list.</br> 
    17 LLC class is demonstrate creation of Linked List and displaying the traversing through the list to display data of the last node.</br>
