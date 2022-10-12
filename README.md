@@ -51,6 +51,6 @@
    36 Withoutsynchronized class is to run multiple threads in asynchronized way.</br>
    37 Withsynchronized class is to run multiple threads in synchronized way by using keyword called synchronized.</br>
    38 Synchronizeblock class is used to lock an object for any shared resource.</br>
-   39 TestOddEven class - in this class we create two threads to run these two thread one by one we used notifyAll and wait methods.</br>
+   39 TestOddEven class - in this class we have created two threads to run these two threads one by one we used notifyAll and wait methods.</br>
    
 
