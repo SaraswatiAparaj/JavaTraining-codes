@@ -1,5 +1,3 @@
-package com.pkg;
-
 public class TestOddEven {
 	
 	int i = 1;
