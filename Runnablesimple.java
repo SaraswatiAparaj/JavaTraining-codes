@@ -1,5 +1,3 @@
-package com.pkg;
-
 public class Runnablesimple implements Runnable
 {
 	public void run()
