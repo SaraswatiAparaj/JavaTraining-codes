@@ -1,5 +1,3 @@
-package com.pkg;
-
 class synchronizeclas1
 {
 	int count=0;
