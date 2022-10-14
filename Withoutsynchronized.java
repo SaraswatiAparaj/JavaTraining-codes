@@ -1,4 +1,3 @@
-package com.pkg;
 
 class synchronizeclas1
 {
