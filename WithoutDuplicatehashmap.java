@@ -18,7 +18,7 @@ class Employee
 
     public int hashCode()
     {
-        int hashcode = 0;
+        int hashcode = 31;
         return hashcode;
     }
 
