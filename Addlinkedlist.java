@@ -21,13 +21,11 @@ Node head, last = null;
         if(head == null)
         {
             head = last = newnode;
-            head.previous = null;
-            last.next = null;
+         
         }
         else 
         {
             last.next = newnode;    
-            last.previous = last;
             last = newnode;
             last.next = null;
         }
