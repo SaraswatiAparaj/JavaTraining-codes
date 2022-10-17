@@ -19,10 +19,6 @@ class Employee
         System.out.println("ID: "+id+"\nPhone: "+phone);
     }
 
-    /*public void displayPhone(String phone){
-
-        System.out.println("\nPhone: "+phone);
-    }*/
 }
 
 class HR extends Employee
@@ -34,8 +30,7 @@ class HR extends Employee
         super(i, n, a, p);
         this.salary = sal;
     }
-    //Overriding without parameters
-    //@Override
+   
     public void displayPhone()
     {
         System.out.println("Name: "+name+"\tPhone: "+phone);
@@ -52,8 +47,6 @@ class Employee_methodOverriding{
         //Without parameters 
         obj2.displayPhone();
 
-        //with parameters 
-        //obj2.displayPhone("8986438922");
     }
 }
 
